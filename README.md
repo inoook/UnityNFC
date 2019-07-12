@@ -1,5 +1,7 @@
 # UnityNFC
 
+read UID only.
+
 https://tomosoft.jp/design/?p=5543
 
 https://marunouchi-tech.i-studio.co.jp/5133/
